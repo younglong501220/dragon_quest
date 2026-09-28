@@ -1,0 +1,6 @@
+{
+  "name": "勇者鬥惡龍 I - 復刻版",
+  "description": "專為致敬 1986 年紅白機傳奇始祖《勇者鬥惡龍 1》所打造的 HTML5 復刻版 RPG 遊戲。探索亞雷夫加爾德大陸、經典回合制指令戰鬥、學習咒文並擊敗龍王！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
